@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: f11e0413687492448837dfc2bd709b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3603589349975641767
+    second: starcollecteffect_0
+  - first:
+      213: 905744718991712397
+    second: starcollecteffect_1
+  - first:
+      213: 5506712548592801667
+    second: starcollecteffect_2
+  - first:
+      213: -1703284829013431149
+    second: starcollecteffect_3
+  - first:
+      213: 5487147024075827547
+    second: starcollecteffect_4
+  - first:
+      213: 4891399625493882189
+    second: starcollecteffect_5
+  - first:
+      213: -3052624777035671096
+    second: starcollecteffect_6
+  - first:
+      213: 6464682698741912584
+    second: starcollecteffect_7
+  - first:
+      213: -8943184189224583727
+    second: starcollecteffect_8
+  - first:
+      213: 3051578838114576823
+    second: starcollecteffect_9
+  - first:
+      213: -5140554230679571763
+    second: starcollecteffect_10
+  - first:
+      213: 3715570956474391575
+    second: starcollecteffect_11
+  - first:
+      213: -8842466690280440778
+    second: starcollecteffect_12
+  - first:
+      213: 7308700282256418302
+    second: starcollecteffect_13
+  - first:
+      213: -876665491279686576
+    second: starcollecteffect_14
+  - first:
+      213: -3592170997244468537
+    second: starcollecteffect_15
+  - first:
+      213: 7409368591435293299
+    second: starcollecteffect_16
+  - first:
+      213: 2432260854884508021
+    second: starcollecteffect_17
+  - first:
+      213: -8921218375038261219
+    second: starcollecteffect_18
+  - first:
+      213: 5243410256247133979
+    second: starcollecteffect_19
+  - first:
+      213: -1150584561070511702
+    second: starcollecteffect_20
+  - first:
+      213: 972757727771975790
+    second: starcollecteffect_21
+  - first:
+      213: -4960535673334813284
+    second: starcollecteffect_22
+  - first:
+      213: 8008931624949439033
+    second: starcollecteffect_23
+  - first:
+      213: -4196964704695418123
+    second: starcollecteffect_24
+  - first:
+      213: -6505064757207465224
+    second: starcollecteffect_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: starcollecteffect_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951325e249a7dfdc0800000000000000
+      internalID: -3603589349975641767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 212
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875f0b13e5cb6c40800000000000000
+      internalID: 5506712548592801667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 208
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ca75fe877bc58e0800000000000000
+      internalID: -1703284829013431149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a1607523462c40800000000000000
+      internalID: 5487147024075827547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 207
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ae087a8edefc4c8e77c0508dc54af
+      internalID: 905744718991712397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 45
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8590b63f62974581c19f2dec96f32
+      internalID: 4891399625493882189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 45
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736fbe69e2a9434428850f918f4fd705
+      internalID: -3052624777035671096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starcollecteffect_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c354067381bc4dba136ba50ca2a7a
+      internalID: 6464682698741912584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a679a1e992bf964e87ce4a23f653654
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      starcollecteffect_0: -3603589349975641767
+      starcollecteffect_1: 905744718991712397
+      starcollecteffect_10: -5140554230679571763
+      starcollecteffect_11: 3715570956474391575
+      starcollecteffect_12: -8842466690280440778
+      starcollecteffect_13: 7308700282256418302
+      starcollecteffect_14: -876665491279686576
+      starcollecteffect_15: -3592170997244468537
+      starcollecteffect_16: 7409368591435293299
+      starcollecteffect_17: 2432260854884508021
+      starcollecteffect_18: -8921218375038261219
+      starcollecteffect_19: 5243410256247133979
+      starcollecteffect_2: 5506712548592801667
+      starcollecteffect_20: -1150584561070511702
+      starcollecteffect_21: 972757727771975790
+      starcollecteffect_22: -4960535673334813284
+      starcollecteffect_23: 8008931624949439033
+      starcollecteffect_24: -4196964704695418123
+      starcollecteffect_25: -6505064757207465224
+      starcollecteffect_3: -1703284829013431149
+      starcollecteffect_4: 5487147024075827547
+      starcollecteffect_5: 4891399625493882189
+      starcollecteffect_6: -3052624777035671096
+      starcollecteffect_7: 6464682698741912584
+      starcollecteffect_8: -8943184189224583727
+      starcollecteffect_9: 3051578838114576823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
